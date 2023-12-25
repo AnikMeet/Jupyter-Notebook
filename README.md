@@ -1,2 +1,2 @@
-# Jupyter-Notebook
+# Diwali Sales Project
 My Personal Notebook
